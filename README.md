@@ -10,7 +10,7 @@ This assignment is designed just to get you going on the use of GitHub, IntelliJ
 ### Details
 * Review Java programming basics paying close attention to creating custom classes.
 * Download the project template from https://github.com/UltimateSandbox/project-1-initial.git (Links to an external site.)  
-```text
+```  
 (Hint:  The easiest way to get the template is to just fork it into your repo, then clone it from there to your computer using the New Project from Existing Sources option in IntelliJ.)
 ```
 Complete the following programming assignment:
@@ -20,7 +20,7 @@ Complete the following programming assignment:
 - shiftX(double n), shiftY(double n) - shift a point by a given amount along one of the axes.
 - distance(Point p2) - finds the distance to point p2.
 - rotate(double angle) - rotates the point by a specified angle around the origin. The formula for rotation is as follows:
-```text
+```
 x′=xcos(θ)−ysin(θ)
 y′=xsin(θ)+ycos(θ)
 ```
@@ -34,7 +34,7 @@ y′=xsin(θ)+ycos(θ)
 
 ### Expected Output
 Once you get your Point class working, when you run the driver, you should see something similar to the following:
-```text
+```
 Project 1 : Point Tester
 
 Point 1: Point{x=3.0, y=1.0}
@@ -44,7 +44,6 @@ Distance: 5.0
 
 Rotated a 1.5707963267948966: Point{x=-0.9999999999999998, y=3.0}
 Shifted b 4.47213595499958 away from original position: Point{x=10.0, y=3.0}
-
 ```
 
 ### Extra Credit
@@ -60,4 +59,5 @@ The trick with this extra credit isn't necessarily figuring out what to ask the 
 - Use good, SOLID object-oriented programming principles (pun intended) in your implementation.
 ### Deliverables
 - Be sure you commit & push your code to GitHub.  If you don't push it, I won't be able to see it!
+- Make sure your repo is public or I won't be able to see it.
 - Copy the URL for your repo (green button on your GitHub repos' page) and paste it into the Website URL field and click Submit Assignment!
