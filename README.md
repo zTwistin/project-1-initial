@@ -35,7 +35,7 @@ y′=xsin(θ)+ycos(θ)
 ![img.png](img.png)
 
 ### Expected Output
-Once you get your Point class working, when you run the unit tests, you should see all tests pass:
+Once you get your Point class working, when you run the unit tests, you should see all tests pass.
 
 ### Extra Credit
 If you would like up to 10 points extra credit for this assignment, utilize a code generation AI to write the class.  To get the extra credit points, you must include the text you used to generate the class in a multi-line comment just above the class header.  Make sure the AI generates all methods mentioned above for full credit.
